@@ -34,6 +34,11 @@ span {
     vertical-align: top;
 }
 
+.label-longWidth-value{
+    width: 320px;
+    vertical-align: top;
+}
+
 .iconfont {
     font-family:"iconfont" !important;
     font-size:1.1em;font-style:normal;
