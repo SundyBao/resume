@@ -215,13 +215,14 @@ progress::-moz-progress-value {
     /*background-color: white;*/
 
 /*}*/
+
 .container {
     position: relative;
     margin: 0 auto;
     background-color: white;
     width: 1100px;
-    .px2rem(height, 1100);
-
+    height: 163rem;
+    /*.px2rem(height, 300);*/
 }
 
 .side {
