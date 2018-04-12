@@ -206,13 +206,20 @@ progress::-moz-progress-value {
 }
 
 
-.container {
-    position: relative;
-    margin: 0 auto;
+/*.container {*/
+    /*position: relative;*/
+    /*margin: 0 auto;*/
 
-    width: 1050px;
-    height: 3320px;
+    /*width: 1050px;*/
+    /*height: 3320px;*/
+    /*background-color: white;*/
+
+/*}*/
+.container {
+
     background-color: white;
+
+    .px2rem(height, 240);
 
 }
 
