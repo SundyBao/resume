@@ -216,7 +216,6 @@ progress::-moz-progress-value {
 
 /*}*/
 
-html{ font-size:17px}
 
 .container {
     position: relative;
@@ -224,7 +223,7 @@ html{ font-size:17px}
     background-color: white;
     width: 1100px;
     /*height: 163rem;*/
-    /*.px2rem(height, 300);*/
+    .px2rem(height, 300);
 }
 
 .side {
