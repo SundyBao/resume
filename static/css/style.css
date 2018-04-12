@@ -216,6 +216,8 @@ progress::-moz-progress-value {
 
 /*}*/
 
+html{ font-size:17px}
+
 .container {
     position: relative;
     margin: 0 auto;
